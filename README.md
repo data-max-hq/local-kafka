@@ -34,3 +34,5 @@ Schema Registry and to read and write messages with schema
 * https://github.com/tchiotludo/akhq/blob/dev/docker-compose.yml
 * https://kafka-python.readthedocs.io/en/master/usage.html
 * https://www.confluent.io/blog/kafka-listeners-explained/
+
+Made with ❤️ by [datamax.ai](https://www.datamax.ai/).
